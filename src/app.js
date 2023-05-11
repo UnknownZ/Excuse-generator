@@ -28,4 +28,5 @@ function insert(text, id) {
 
 window.onload = function() {
   //write your code here
+  insert(excuse(), "excuse");
 };
